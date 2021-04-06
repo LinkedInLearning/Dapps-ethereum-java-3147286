@@ -1,25 +1,27 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Web-basierte DApps mit Ethereum und Javascript
+Dies ist das Repository für den Kurs `Web-basierte DApps mit Ethereum und Javascript`. Der gesamte Kurs ist auf [LinkedIn Learning](https://www.linkedin.com/learning/todo)(TODO: Link) erhältlich.
 
-![course-name-alt-text][lil-thumbnail-url] 
-
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Beschreibung
+TODO: Beschreibung von Kurs übernehmen
 
 ## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Alle Inhalte sind direkt im `master`-Branch abgelegt.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Installation und Verwendung
+Für die Verwendung der Beispiele wird eine aktuelle Linux Distribution (z.B. Ubuntu 20.04 LTS) empfohlen. 
+Alternativ wird im Fall von Windows wird die Nutzung von [WSL2](https://docs.microsoft.com/de-de/windows/wsl/install-win10) empfohlen.
 
+Die Installation weiterer benötigter Software wird im Rahmen des Kurses erläutert.
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Die Verwendung der Beispiele mithilfe von `truffle` und `npm` wird ebenfalls innerhalb des Kurses erklärt.
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+## Über den Autor - Kevin Wittek
+Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
 
+### Instructor
+
+**Kevin Wittek**
+
+_Head of Blockchain Research_
+
+[LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
