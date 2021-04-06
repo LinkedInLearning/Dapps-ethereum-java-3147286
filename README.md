@@ -15,6 +15,10 @@ Die Installation weiterer benötigter Software wird im Rahmen des Kurses erläut
 
 Die Verwendung der Beispiele mithilfe von `truffle` und `npm` wird ebenfalls innerhalb des Kurses erklärt.
 
+Innerhalb des Repositieres befinden sich 2 verschiedene Truffle Projekte, die zu den entsprechenden Teilen innerhalb des Kurses gehören: 
+*  `/first-truffle`
+*  `/user-group-meetings`
+
 ## Über den Autor - Kevin Wittek
 Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
 
