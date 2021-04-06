@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>User Group Meetings</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="index.js"></script>
+    </head>
+    <body class="container">
+        <h1>User Group Meetings Test</h1>
+
+        <p>You have <strong id="balance">loading...</strong> UserGroupCoins</p>
+
+        <p>
+            <label for="new_meeting">Add Meeting:</label>
+            <input type="text" id="new_meeting" placeholder="e.g. Blockchain 101" />
+            <button onclick="App.addMeeting()" class="btn btn-primary">Add</button>
+        </p>
+
+        <p>
+            <label for="reservation_meeting">Book Reservation:</label>
+            <input type="number" id="reservation_meeting" placeholder="1" />
+            <button onclick="App.bookReservation()" class="btn btn-primary">Book</button>
+        </p>
+
+        <p>
+            <label for="attendance_meeting_id">Confirm Attendance:</label>
+            <input type="number" id="attendance_meeting_id" placeholder="1" />
+            <input type="text" id="attendee" placeholder="e.g. 0xA63b9C61B3a7f87055B7AAf98e48725D6F0ad475" />
+            <button onclick="App.confirmAttendance()" class="btn btn-primary">Confirm</button>
+        </p>
+
+        <ul id="meeting_list" class="list-group">
+
+        </ul>
+
+        <p id="status"></p>
+
+    </body>
+</html>
