@@ -2,7 +2,8 @@
 Dies ist das Repository für den Kurs `Web-basierte DApps mit Ethereum und Javascript`. Der gesamte Kurs ist auf [LinkedIn Learning](https://www.linkedin.com/learning/todo)(TODO: Link) erhältlich.
 
 ## Beschreibung
-TODO: Beschreibung von Kurs übernehmen
+DApps (dezentrale Apps) sind eine neuartige Klasse von Anwendungen, bei der Programmcode und Daten gemeinsam auf Ethereum abgelegt und ausgeführt werden. Sie ermöglichen die Umsetzung vollkommen neuer Geschäftsmodelle. Klassische IT-Konzepte können ebenfalls neu erdacht und implementiert werden. <br><br>
+Kevin Wittek stellt Ihnen in diesem Videokurs ein professionelles Toolset zur Entwicklung von DApps vor. Sie werden eine lokale Entwicklungsumgebung, bestehend aus Visual Studio Code, Truffle und Ganache aufbauen und mithilfe von Solidity eigene Smart Contracts programmieren. Es werden professionelle Techniken der regulären Softwareentwicklung wie automatisierte Tests und Debugging vermittelt und Sie werden lernen, wie Sie eine klassische Javascript-Webanwedung mit Smart Contracts verbinden, um sie zu einer DApp zu machen.
 
 ## Branches
 Alle Inhalte sind direkt im `master`-Branch abgelegt.
