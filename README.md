@@ -1,5 +1,5 @@
 # Web-basierte DApps mit Ethereum und Javascript
-Dies ist das Repository für den Kurs `Web-basierte DApps mit Ethereum und Javascript`. Der gesamte Kurs ist auf [LinkedIn Learning](https://www.linkedin.com/learning/todo)(TODO: Link) erhältlich.
+Dies ist das Repository für den Kurs `Web-basierte DApps mit Ethereum und Javascript`. Der gesamte Kurs ist auf [LinkedIn Learning](https://www.linkedin.com/learning/webbasierte-dapps-mit-ethereum-und-javascript) erhältlich.
 
 ## Beschreibung
 DApps (dezentrale Apps) sind eine neuartige Klasse von Anwendungen, bei der Programmcode und Daten gemeinsam auf Ethereum abgelegt und ausgeführt werden. Sie ermöglichen die Umsetzung vollkommen neuer Geschäftsmodelle. Klassische IT-Konzepte können ebenfalls neu erdacht und implementiert werden. <br><br>
